@@ -41,17 +41,17 @@ There, press "**Software**" (https://aternos.org/software/).
 Choose "**Paper / Bukkit**" (https://aternos.org/software/papermc/).  
 Choose the latest version, or the version your world is in if you are following this tutorial with a pre-existing server.  
 Press "**Install**".  
-After it is installed, press the following link: https://aternos.org/addons/a/modrinthbukkit/P1OZGk5p  
+After it is installed, press the following link: https://aternos.org/addons/a/modrinthbukkit/P1OZGk5p (ViaVersion)
 Press the install button on the latest version.  
 Wait for it to install.  
 Do the same thing with these 2 other plugins:  
-https://aternos.org/addons/a/modrinthbukkit/TbHIxhx5  
-https://aternos.org/addons/a/modrinthbukkit/NpvuJQoq  
+https://aternos.org/addons/a/modrinthbukkit/TbHIxhx5 (ViaRewind)
+https://aternos.org/addons/a/modrinthbukkit/NpvuJQoq (ViaBackwards)
 After you do that, you will have a server that can be joined on any Minecraft version.  
   
 ### Making it crossplay  
 To make the server crossplay, another plugin needs to be installed.  
-Install the following plugin: https://aternos.org/addons/a/artemis-bukkit/geyser  
+Install the following plugin: https://aternos.org/addons/a/artemis-bukkit/geyser (GeyserMC)
 Then, the next time you start the server, it will be automatically crossplay.  
   
 ### Making it cracked  
