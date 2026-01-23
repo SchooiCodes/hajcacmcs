@@ -1,5 +1,7 @@
 # How to host a crossplay, any version and cracked Minecraft server for free  
-  
+
+🌐 Switch Language | [English](https://schooicodes.github.io/hajcacmcs/en/) | [Ελληνικά](https://schooicodes.github.io/hajcacmcs/el/) 
+
 *This is a comprehensive tutorial made by me, Schooi (pronounced Skui) (@schooi. on Discord, SchooiCodes on Github) on how to* host *and* join **crossplay, any-version and cracked** *Minecraft servers..*  
 *The tutorial is split into 2 parts:* **Hosting** and **Joining**  
 This seems like a lot of text, but not all things are needed to be read, so please be patient and don't get scared by the sheer size of the tutorial.  

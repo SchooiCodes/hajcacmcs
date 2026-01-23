@@ -1,5 +1,7 @@
 # Πώς να δημιουργήσεις έναν **crossplay**, **any-version** και **cracked** Minecraft server **δωρεάν**
 
+🌐 Εναλλαγή γλώσσας | [English](https://schooicodes.github.io/hajcacmcs/en/) | [Ελληνικά](https://schooicodes.github.io/hajcacmcs/el/) 
+
 *Αυτός είναι ένας αναλυτικός οδηγός που δημιουργήθηκε από εμένα, τον Schooi (προφέρεται Σκούι) (@schooi. στο Discord, SchooiCodes στο GitHub), για το πώς να* δημιουργήσεις *και* να συνδεθείς *σε* **crossplay, any-version και cracked** *Minecraft servers.*  
 *Ο οδηγός χωρίζεται σε 2 μέρη:* "**Δημιουργία (Hosting)**" και "**Σύνδεση**".  
 
