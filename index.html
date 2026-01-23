@@ -1,0 +1,5 @@
+<script>
+  const lang = navigator.language || navigator.userLanguage;
+  const target = lang.startsWith("el") ? "/el/" : "/en/";
+  location.replace(target);
+</script>
